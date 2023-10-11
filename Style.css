@@ -3,7 +3,7 @@ body {
   font-family: Arial, sans-serif;
   background-color: #f0f0f0;
   margin: 50;
-  padding: 20px;
+  padding: 50px;
 }
 h1{
   color: #333;
@@ -13,6 +13,6 @@ p {
 }
 /* Estilo para a classe .destaque */
 .destaque {
-  background-color: #ffcc00;
-  padding: 10px;
+  background-color: #403BF5;
+  padding: 15px;
 }
